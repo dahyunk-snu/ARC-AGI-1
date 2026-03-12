@@ -4,8 +4,5 @@ Our goal is to develop a model that solves an easy-version of ARC-AGI (Abstracti
 Corpus) challenge.
 Check project.pdf for details
 
-How to apply git setting:
-```
-chmod +x setup-git.sh
-./setup-git.sh
-```
+### Report
+- 📄 [Project Report](./team13_project_report.pdf)
