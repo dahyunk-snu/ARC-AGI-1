@@ -1,0 +1,807 @@
+{
+  "99fa7670": {
+      "rotate": false,
+      "transpose": false,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "6d0aefbc": {
+      "rotate": false,
+      "transpose": false,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "6855a6e4": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "67e8384a": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "e3497940": {
+      "rotate": false,
+      "transpose": false,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "54d9e175": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": false,
+      "keep_background": true
+  },
+  "2281f1f4": {
+      "rotate": false,
+      "transpose": false,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "3af2c5a8": {
+      "rotate": false,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "d687bc17": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "ae3edfdc": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "ff28f65a": {
+      "rotate": false,
+      "transpose": false,
+      "permute_color": false,
+      "keep_background": false
+  },
+  "b8cdaf2b": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "90c28cc7": {
+      "rotate": false,
+      "transpose": false,
+      "permute_color": true,
+      "keep_background": true
+  },
+  "eb281b96": {
+      "rotate": false,
+      "transpose": false,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "97999447": {
+      "rotate": false,
+      "transpose": false,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "150deff5": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": false,
+      "keep_background": false
+  },
+  "29623171": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "be94b721": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "d511f180": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": false,
+      "keep_background": false
+  },
+  "68b16354": {
+      "rotate": false,
+      "transpose": false,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "aabf363d": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "e8dc4411": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "23b5c85d": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "ea786f4a": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "e76a88a6": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "77fdfe62": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "a2fd1cf0": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": false,
+      "keep_background": false
+  },
+  "1c786137": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "1190e5a7": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "ef135b50": {
+      "rotate": false,
+      "transpose": false,
+      "permute_color": false,
+      "keep_background": false
+  },
+  "6430c8c4": {},
+  "9ecd008a": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "5614dbcf": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": false,
+      "keep_background": false
+  },
+  "694f12f3": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": false,
+      "keep_background": false
+  },
+  "3631a71a": {
+      "rotate": false,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "d406998b": {
+      "rotate": false,
+      "transpose": false,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "ed36ccf7": {
+      "rotate": true,
+      "transpose": false,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "99b1bc43": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "007bbfb7": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": true
+  },
+  "b27ca6d3": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": false,
+      "keep_background": false
+  },
+  "2dc579da": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "aba27056": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "d9fac9be": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "178fcbfb": {
+      "rotate": false,
+      "transpose": false,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "5daaa586": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "6e19193c": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "913fb3ed": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": false,
+      "keep_background": false
+  },
+  "a61f2674": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": false,
+      "keep_background": false
+  },
+  "025d127b": {
+      "rotate": false,
+      "transpose": false,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "f2829549": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "f1cefba8": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "27a28665": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": false,
+      "keep_background": false
+  },
+  "7c008303": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "62c24649": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "6cf79266": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": false,
+      "keep_background": false
+  },
+  "e9614598": {
+      "rotate": false,
+      "transpose": true,
+      "permute_color": false,
+      "keep_background": false
+  },
+  "f15e1fac": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": false,
+      "keep_background": false
+  },
+  "e48d4e1a": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "1b2d62fb": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "c9f8e694": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "b527c5c6": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "4258a5f9": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": false,
+      "keep_background": false
+  },
+  "67a423a3": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": false,
+      "keep_background": false
+  },
+  "5521c0d9": {
+      "rotate": false,
+      "transpose": false,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "11852cab": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "4522001f": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "1a07d186": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "2dee498d": {
+      "rotate": false,
+      "transpose": false,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "dae9d2b5": {
+      "rotate": false,
+      "transpose": true,
+      "permute_color": false,
+      "keep_background": false
+  },
+  "29c11459": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": false,
+      "keep_background": false
+  },
+  "7ddcd7ec": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "91714a58": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "a740d043": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": true
+  },
+  "05f2a901": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "a9f96cdd": {
+      "rotate": false,
+      "transpose": false,
+      "permute_color": false,
+      "keep_background": false
+  },
+  "2bee17df": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": false,
+      "keep_background": false
+  },
+  "d6ad076f": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": false,
+      "keep_background": false
+  },
+  "dc0a314f": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": false,
+      "keep_background": false
+  },
+  "2204b7a8": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "1cf80156": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "9172f3a0": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "cdecee7f": {
+      "rotate": false,
+      "transpose": false,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "bd4472b8": {
+      "rotate": false,
+      "transpose": false,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "3ac3eb23": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "fcc82909": {
+      "rotate": false,
+      "transpose": false,
+      "permute_color": false,
+      "keep_background": false
+  },
+  "bbc9ae5d": {
+      "rotate": false,
+      "transpose": false,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "8d5021e8": {
+      "rotate": false,
+      "transpose": false,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "a65b410d": {
+      "rotate": true,
+      "transpose": false,
+      "permute_color": false,
+      "keep_background": false
+  },
+  "6cdd2623": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "09629e4f": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "6b9890af": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "4c4377d9": {
+      "rotate": false,
+      "transpose": false,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "3c9b0459": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "9565186b": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": false,
+      "keep_background": false
+  },
+  "d2abd087": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": false,
+      "keep_background": false
+  },
+  "67a3c6ac": {
+      "rotate": false,
+      "transpose": false,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "3eda0437": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": false,
+      "keep_background": false
+  },
+  "4290ef0e": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "9af7a82c": {
+      "rotate": false,
+      "transpose": false,
+      "permute_color": true,
+      "keep_background": true
+  },
+  "7b6016b9": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": false,
+      "keep_background": false
+  },
+  "b91ae062": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": true,
+      "keep_background": false
+  },
+  "ce9e57f2": {
+      "rotate": true,
+      "transpose": true,
+      "permute_color": false,
+      "keep_background": false
+  },
+  "b782dc8a": {},
+  "d23f8c26": {},
+  "f25ffba3": {},
+  "05269061": {},
+  "bc1d5164": {},
+  "c8f0f002": {},
+  "feca6190": {},
+  "eb5a1d5d": {},
+  "22168020": {},
+  "ecdecbb3": {},
+  "44f52bb0": {},
+  "94f9d214": {},
+  "4612dd53": {},
+  "28bf18c6": {},
+  "95990924": {},
+  "22eb0ac0": {},
+  "8f2ea7aa": {},
+  "6fa7a44f": {},
+  "91413438": {},
+  "3f7978a0": {},
+  "1caeab9d": {},
+  "ce22a75a": {},
+  "239be575": {},
+  "d9f24cd1": {},
+  "d037b0a7": {},
+  "855e0971": {},
+  "41e4d17e": {},
+  "8d510a79": {},
+  "d10ecb37": {},
+  "56dc2b01": {},
+  "e8593010": {},
+  "b0c4d837": {},
+  "90f3ed37": {},
+  "53b68214": {},
+  "c3e719e8": {},
+  "22233c11": {},
+  "a416b8f3": {},
+  "6f8cd79b": {},
+  "017c7c7b": {},
+  "f8a8fe49": {},
+  "dc433765": {},
+  "0b148d64": {},
+  "beb8660c": {},
+  "e9afcf9a": {},
+  "a5f85a15": {},
+  "a68b268e": {},
+  "a8d7556c": {},
+  "8403a5d5": {},
+  "b1948b0a": {},
+  "e179c5f4": {},
+  "aedd82e4": {},
+  "00d62c1b": {},
+  "e73095fd": {},
+  "de1cd16c": {},
+  "5582e5ca": {},
+  "6455b5f5": {},
+  "75b8110e": {},
+  "6d0160f0": {},
+  "508bd3b6": {},
+  "ea32f347": {},
+  "a79310a0": {},
+  "8eb1be9a": {},
+  "a78176bb": {},
+  "760b3cac": {},
+  "272f95fa": {},
+  "496994bd": {},
+  "a699fb00": {},
+  "d4469b4b": {},
+  "10fcaaa3": {},
+  "6d75e8bb": {},
+  "31aa019c": {},
+  "7fe24cdd": {},
+  "47c1f68c": {},
+  "1e0a9b12": {},
+  "5bd6f4ac": {},
+  "539a4f51": {},
+  "f76d97a5": {},
+  "1e32b0e9": {},
+  "6e82a1ae": {},
+  "6150a2bd": {},
+  "ff805c23": {},
+  "d22278a0": {},
+  "673ef223": {},
+  "3aa6fb7a": {},
+  "834ec97d": {},
+  "46f33fce": {},
+  "1bfc4729": {},
+  "a48eeaf7": {},
+  "d90796e8": {},
+  "321b1fc6": {},
+  "dc1df850": {},
+  "3906de3d": {},
+  "d4a91cb9": {},
+  "06df4c85": {},
+  "662c240a": {},
+  "4be741c5": {},
+  "c444b776": {},
+  "88a62173": {},
+  "137eaa0f": {},
+  "67385a82": {},
+  "9edfc990": {},
+  "e98196ab": {},
+  "6a1e5592": {},
+  "6773b310": {},
+  "bdad9b1f": {},
+  "25d8a9c8": {},
+  "d89b689b": {},
+  "a85d4709": {},
+  "a1570a43": {},
+  "2013d3e2": {},
+  "1f0c79e5": {},
+  "f35d900a": {},
+  "1f642eb9": {},
+  "d8c310e9": {},
+  "0d3d703e": {},
+  "c909285e": {},
+  "ae4f1146": {},
+  "3de23699": {},
+  "a3df8b1e": {},
+  "42a50994": {},
+  "4093f84a": {},
+  "995c5fa3": {},
+  "952a094c": {},
+  "b8825c91": {},
+  "363442ee": {},
+  "b60334d2": {},
+  "54d82841": {},
+  "e40b9e2f": {},
+  "82819916": {},
+  "5168d44c": {},
+  "3428a4f5": {},
+  "fafffa47": {},
+  "cbded52d": {},
+  "d631b094": {},
+  "f8c80d96": {},
+  "f25fbde4": {},
+  "a87f7484": {},
+  "c59eb873": {},
+  "6e02f1e3": {},
+  "73251a56": {},
+  "6d58a25d": {},
+  "746b3537": {},
+  "9dfd6313": {},
+  "28e73c20": {},
+  "49d1d64f": {},
+  "d06dbe63": {},
+  "868de0fa": {},
+  "cf98881b": {},
+  "b190f7f5": {},
+  "d13f3404": {},
+  "c3f564a4": {},
+  "ba97ae07": {},
+  "f5b8619d": {},
+  "0ca9ddb6": {},
+  "40853293": {},
+  "4938f0c2": {},
+  "623ea044": {},
+  "db3e9e38": {},
+  "234bbc79": {},
+  "0a938d79": {},
+  "1f876c06": {},
+  "469497ad": {},
+  "253bf280": {},
+  "74dd1130": {},
+  "8be77c9e": {},
+  "b7249182": {},
+  "08ed6ac7": {},
+  "88a10436": {},
+  "ba26e723": {},
+  "ec883f72": {},
+  "3bd67248": {},
+  "ac0a08a4": {},
+  "ded97339": {},
+  "d364b489": {},
+  "85c4e7cd": {},
+  "ce4f8723": {},
+  "941d9a10": {},
+  "b548a754": {},
+  "c1d99e64": {},
+  "7447852a": {},
+  "bda2d7a6": {},
+  "5c0a986e": {},
+  "7b7f7511": {},
+  "dbc1a6ce": {},
+  "b94a9452": {},
+  "794b24be": {},
+  "cce03e0d": {},
+  "23581191": {},
+  "3618c87e": {},
+  "c9e6f938": {},
+  "7468f01a": {},
+  "5c2c9af4": {},
+  "e26a3af2": {},
+  "25ff71a9": {},
+  "0520fde7": {},
+  "46442a0e": {},
+  "2bcee788": {},
+  "780d0b14": {}
+}

@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# dotenv
+.env
+.env.*
+artifacts/
+artifacts/
+unsloth_compiled_cache/
+output_evaluation_Llama-rearc_without_ttt/
+dataset/
+*.log
+*.out
